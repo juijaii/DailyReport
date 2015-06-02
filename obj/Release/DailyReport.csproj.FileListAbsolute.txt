@@ -1,0 +1,223 @@
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\conf.ini
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DailyReport.exe
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DailyReport.pdb
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.BonusSkins.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Data.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Printing.v11.2.Core.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.RichEdit.v11.2.Core.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Utils.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraBars.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraEditors.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraGrid.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraLayout.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraNavBar.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraPrinting.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraTreeList.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\MeteoriteFramework.v11.2.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\System.Data.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\System.Deployment.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\System.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\System.Drawing.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\System.Windows.Forms.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\System.Xml.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.RichEdit.v11.2.Core.xml
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraTreeList.v11.2.xml
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraPrinting.v11.2.xml
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\obj\Release\ResolveAssemblyReference.cache
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\obj\Release\DailyReport.Form1.resources
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\obj\Release\DailyReport.Properties.Resources.resources
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\obj\Release\DailyReport.csproj.GenerateResource.Cache
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\obj\Release\DailyReport.exe.licenses
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\obj\Release\DailyReport.exe
+C:\Users\patawee\Documents\Visual Studio 2008\Projects\DailyReport\DailyReport\obj\Release\DailyReport.pdb
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\conf.ini
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DailyReport.exe
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DailyReport.pdb
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.BonusSkins.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Charts.v11.2.Core.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Data.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Printing.v11.2.Core.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.RichEdit.v11.2.Core.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Utils.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraBars.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraCharts.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraCharts.v11.2.UI.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraEditors.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraGrid.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraLayout.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraNavBar.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraPrinting.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraTreeList.v11.2.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\Microsoft.Office.Interop.Excel.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\System.Data.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\System.Deployment.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\System.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\System.Drawing.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\System.Windows.Forms.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\System.Xml.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\office.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\Microsoft.Vbe.Interop.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraLayout.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Data.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Utils.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraTreeList.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraEditors.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraGrid.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.RichEdit.v11.2.Core.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraCharts.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraBars.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraNavBar.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraCharts.v11.2.UI.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraPrinting.v11.2.xml
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.Data.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.Data.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.Data.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.Data.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.Utils.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.Utils.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.Utils.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.Utils.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\project\Projects EPZ\DailyReport\DailyReport\obj\Release\ResolveAssemblyReference.cache
+D:\project\Projects EPZ\DailyReport\DailyReport\obj\Release\DailyReport.Form1.resources
+D:\project\Projects EPZ\DailyReport\DailyReport\obj\Release\DailyReport.Properties.Resources.resources
+D:\project\Projects EPZ\DailyReport\DailyReport\obj\Release\DailyReport.csproj.GenerateResource.Cache
+D:\project\Projects EPZ\DailyReport\DailyReport\obj\Release\DailyReport.exe.licenses
+D:\project\Projects EPZ\DailyReport\DailyReport\obj\Release\DailyReport.exe
+D:\project\Projects EPZ\DailyReport\DailyReport\obj\Release\DailyReport.pdb
+D:\DailyReport\DailyReport\obj\Release\DailyReport.exe
+D:\DailyReport\DailyReport\obj\Release\DailyReport.pdb
+D:\DailyReport\DailyReport\bin\Release\DailyReport\conf.ini
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DailyReport.exe
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DailyReport.pdb
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.BonusSkins.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Charts.v11.2.Core.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Data.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Printing.v11.2.Core.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.RichEdit.v11.2.Core.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Utils.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraBars.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraCharts.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraCharts.v11.2.UI.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraEditors.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraGrid.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraLayout.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraNavBar.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraPrinting.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraTreeList.v11.2.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\System.Data.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\System.Deployment.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\System.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\System.Drawing.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\System.Windows.Forms.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\System.Xml.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\office.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\Microsoft.Vbe.Interop.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Data.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.RichEdit.v11.2.Core.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.Utils.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraBars.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraCharts.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraCharts.v11.2.UI.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraEditors.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraGrid.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraLayout.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraNavBar.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraPrinting.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\DevExpress.XtraTreeList.v11.2.xml
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.Data.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.Data.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.Data.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.Data.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.Utils.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.Utils.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.Utils.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.Utils.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\DailyReport\DailyReport\bin\Release\DailyReport\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\DailyReport\DailyReport\obj\Release\DailyReport.csprojResolveAssemblyReference.cache
+D:\DailyReport\DailyReport\obj\Release\DailyReport.Form1.resources
+D:\DailyReport\DailyReport\obj\Release\DailyReport.Properties.Resources.resources
+D:\DailyReport\DailyReport\obj\Release\DailyReport.csproj.GenerateResource.Cache
+D:\DailyReport\DailyReport\obj\Release\DailyReport.exe.licenses
